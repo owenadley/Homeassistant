@@ -1,0 +1,4 @@
+2019-02-02 15:50:14 WARNING (Recorder) [homeassistant.components.recorder.migration] Database is about to upgrade. Schema version: None
+2019-02-02 16:00:24 WARNING (MainThread) [homeassistant.components.hue] Connected to Hue at 192.168.1.87 but not registered.
+2019-02-02 16:00:25 WARNING (MainThread) [homeassistant.components.hue] Connected to Hue at 192.168.1.87 but not registered.
+2019-02-02 16:51:48 ERROR (MainThread) [homeassistant.components.updater] Could not contact Home Assistant Update to check for updates

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "owen"
+                },
+                "id": "a5f7955e8be64207ac475da886d3f5ab",
+                "user_id": "28b54b52075e453d9b4c1ddcce29f276"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://192.168.1.151:8123/",
+                "client_name": null,
+                "created_at": "2019-02-02T21:40:44.353032+00:00",
+                "id": "58c764373a9f4c759e60163495b62eb6",
+                "jwt_key": "3ea08aad549052bbd819fa1aba59fe2dd97ad709f1baba94411c0c9406b307cacdb374cbcd36f38b10c9684791815b589eabbf0a96e112498f73701c6c9e9c12",
+                "last_used_at": "2019-02-02T21:40:44.353590+00:00",
+                "last_used_ip": "192.168.1.127",
+                "token": "d2f11e2b579996594831aa75ffeb623bb1daf4c6a4b62a851b34f56d43216e3639544b7ac4f20bd3f3dd28293fa58fa25e0da8fcbb95a9bae9af7a8f547b3269",
+                "token_type": "normal",
+                "user_id": "28b54b52075e453d9b4c1ddcce29f276"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "28b54b52075e453d9b4c1ddcce29f276",
+                "is_active": true,
+                "is_owner": true,
+                "name": "Owen",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}
