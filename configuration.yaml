@@ -53,6 +53,12 @@ map:
 # Track the sun
 sun:
 
+switch:
+  - platform: tplink
+    host: 192.168.1.147
+  - platform: tplink
+    host: 192.168.1.197
+
 # Sensors
 sensor:
   # Weather prediction
@@ -61,6 +67,9 @@ sensor:
 # Text to speech
 tts:
   - platform: google
+
+lovelace:
+  mode: yaml
 
 # Cloud
 cloud:

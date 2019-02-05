@@ -1,0 +1,193 @@
+{
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "79a3e02369e24c40adf5844f03480483"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:0a:c8:aa"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "710df74b62684318a3e8f8c36b004c5e",
+                "identifiers": [
+                    [
+                        "hue",
+                        "001788FFFE0AC8AA"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB001",
+                "name": "Philips hue",
+                "sw_version": "01041302"
+            },
+            {
+                "config_entries": [
+                    "79a3e02369e24c40adf5844f03480483"
+                ],
+                "connections": [],
+                "hub_device_id": "710df74b62684318a3e8f8c36b004c5e",
+                "id": "0d89f6517a174ddcabdc4f848c40afce",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:20:b3:8e-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "LTW015",
+                "name": "Hue ambiance light 1",
+                "sw_version": "1.19.0_r19755"
+            },
+            {
+                "config_entries": [
+                    "79a3e02369e24c40adf5844f03480483"
+                ],
+                "connections": [],
+                "hub_device_id": "710df74b62684318a3e8f8c36b004c5e",
+                "id": "4cb4aae6a7d446f781f9845becd09a6f",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:52:c4:30-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "LCT014",
+                "name": "Color 1",
+                "sw_version": "1.29.0_r21169"
+            },
+            {
+                "config_entries": [
+                    "79a3e02369e24c40adf5844f03480483"
+                ],
+                "connections": [],
+                "hub_device_id": "710df74b62684318a3e8f8c36b004c5e",
+                "id": "0322faf8ab7e40539f0c1f4f9e78234a",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:f7:28:83-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "LCT014",
+                "name": "Color 2",
+                "sw_version": "1.29.0_r21169"
+            },
+            {
+                "config_entries": [
+                    "79a3e02369e24c40adf5844f03480483"
+                ],
+                "connections": [],
+                "hub_device_id": "710df74b62684318a3e8f8c36b004c5e",
+                "id": "153cb78e5b3542eebb82dc995f64b054",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:b3:52:17-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "LCT016",
+                "name": "Hue color light 1",
+                "sw_version": "1.19.0_r19755"
+            },
+            {
+                "config_entries": [
+                    "72a2505cf2dd4c5a969abc891b87bdb9"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "b75fa538bb534eff88190de5d2ab3ac7",
+                "identifiers": [
+                    [
+                        "cast",
+                        "073cc40e2b2ac75261e4b7baa329d4de"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Chromecast",
+                "name": "Bedroom TV",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "72a2505cf2dd4c5a969abc891b87bdb9"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "ffc784b8eb9644b581ee46be52761780",
+                "identifiers": [
+                    [
+                        "cast",
+                        "1d9a1b139415391d3b84b3126b8fbaa9"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Google Home Mini",
+                "name": "Owens Bedroom Speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "72a2505cf2dd4c5a969abc891b87bdb9"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "264031fd034646a0806568bd5d7dfb94",
+                "identifiers": [
+                    [
+                        "cast",
+                        "49ee559de6b50575c712165e888fb6e5"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Google Home Mini",
+                "name": "Noah's Bedroom speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "72a2505cf2dd4c5a969abc891b87bdb9"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "fc1380a42d1848068adf64808048bed5",
+                "identifiers": [
+                    [
+                        "cast",
+                        "07f995c422febfef3532554bdd2bd141"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Chromecast Audio",
+                "name": "Family Room speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "72a2505cf2dd4c5a969abc891b87bdb9"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "329cf5a01cc84a808f370799b0caa243",
+                "identifiers": [
+                    [
+                        "cast",
+                        "f80d8b04893f2d2919dbdf19ab0be3ad"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Chromecast",
+                "name": "Noah's Bedroom TV",
+                "sw_version": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

@@ -1,0 +1,107 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": "79a3e02369e24c40adf5844f03480483",
+                "device_id": "0d89f6517a174ddcabdc4f848c40afce",
+                "disabled_by": null,
+                "entity_id": "light.hue_ambiance_light_1",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:03:20:b3:8e-0b"
+            },
+            {
+                "config_entry_id": "79a3e02369e24c40adf5844f03480483",
+                "device_id": "4cb4aae6a7d446f781f9845becd09a6f",
+                "disabled_by": null,
+                "entity_id": "light.color_1",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:52:c4:30-0b"
+            },
+            {
+                "config_entry_id": "79a3e02369e24c40adf5844f03480483",
+                "device_id": "0322faf8ab7e40539f0c1f4f9e78234a",
+                "disabled_by": null,
+                "entity_id": "light.color_2",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:02:f7:28:83-0b"
+            },
+            {
+                "config_entry_id": "79a3e02369e24c40adf5844f03480483",
+                "device_id": "153cb78e5b3542eebb82dc995f64b054",
+                "disabled_by": null,
+                "entity_id": "light.hue_color_light_1",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:03:b3:52:17-0b"
+            },
+            {
+                "config_entry_id": "72a2505cf2dd4c5a969abc891b87bdb9",
+                "device_id": "b75fa538bb534eff88190de5d2ab3ac7",
+                "disabled_by": null,
+                "entity_id": "media_player.bedroom_tv",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "073cc40e-2b2a-c752-61e4-b7baa329d4de"
+            },
+            {
+                "config_entry_id": "72a2505cf2dd4c5a969abc891b87bdb9",
+                "device_id": "ffc784b8eb9644b581ee46be52761780",
+                "disabled_by": null,
+                "entity_id": "media_player.owens_bedroom_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "1d9a1b13-9415-391d-3b84-b3126b8fbaa9"
+            },
+            {
+                "config_entry_id": "72a2505cf2dd4c5a969abc891b87bdb9",
+                "device_id": "264031fd034646a0806568bd5d7dfb94",
+                "disabled_by": null,
+                "entity_id": "media_player.noah_s_bedroom_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "49ee559d-e6b5-0575-c712-165e888fb6e5"
+            },
+            {
+                "config_entry_id": "72a2505cf2dd4c5a969abc891b87bdb9",
+                "device_id": "fc1380a42d1848068adf64808048bed5",
+                "disabled_by": null,
+                "entity_id": "media_player.family_room_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "07f995c4-22fe-bfef-3532-554bdd2bd141"
+            },
+            {
+                "config_entry_id": "72a2505cf2dd4c5a969abc891b87bdb9",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.speakers",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "766e0645-f45f-45d8-b8d9-e4dc1d1437fd"
+            },
+            {
+                "config_entry_id": "72a2505cf2dd4c5a969abc891b87bdb9",
+                "device_id": "329cf5a01cc84a808f370799b0caa243",
+                "disabled_by": null,
+                "entity_id": "media_player.noah_s_bedroom_tv",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "f80d8b04-893f-2d29-19db-df19ab0be3ad"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.roku_2l543m311347",
+                "name": null,
+                "platform": "roku",
+                "unique_id": "2L543M311347"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

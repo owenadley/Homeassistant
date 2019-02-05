@@ -1,0 +1,30 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "bridge_id": "001788FFFE0AC8AA",
+                    "host": "192.168.1.87",
+                    "username": "v3VKIa2ZWZL0JAP1qDoNXms1-mOztXEGmonlMUwV"
+                },
+                "domain": "hue",
+                "entry_id": "79a3e02369e24c40adf5844f03480483",
+                "source": "discovery",
+                "title": "Philips hue",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "cast",
+                "entry_id": "72a2505cf2dd4c5a969abc891b87bdb9",
+                "source": "discovery",
+                "title": "Google Cast",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

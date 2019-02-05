@@ -1,0 +1,26 @@
+views:
+  - title: main
+    icon: mdi:home-outline
+    panel: false
+    cards:
+      - type: vertical-stack
+        cards:
+          - type: horizontal-stack
+            cards:
+              - type: light
+                entity: light.ceiling
+              - type: light
+                entity: light.desk_lamp
+
+          - type: glance
+            column_width: calc(100% / 2)
+            entities:
+              - switch.desk
+              - switch.tv
+
+      - type: vertical-stack
+        cards:
+          - type: media-control
+            entity: media_player.owens_bedroom_speaker
+          - type: media-control
+            entity: media_player.bedroom_tv
